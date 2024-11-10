@@ -9,7 +9,7 @@ export default function Index () {
         alignItems: 'center',
 
     }} >
-      <Text>Edit app/layout in src folder</Text>
+      <Text>Hello supabase and clerk</Text>
     </View>
   )
 }
